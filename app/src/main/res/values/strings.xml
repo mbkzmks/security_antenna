@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecurityAntenna</string>
+    <string name="account_name">FeedSync Service</string>
+    <string name="title_entry_detail">Entry Detail</string>
+    <string name="loading">Waiting for sync...</string>
+    <string name="description_refresh">Refresh</string>
+
+</resources>
